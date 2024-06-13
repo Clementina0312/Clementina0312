@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Clementina0312
+- 👋 Hi, I’m @Clementina0312, a graduate student majoring in Computer Science at Stevens Institute of Technology, open to opportunities as a Software Development Engineer
 - 👀 I’m interested in web programming
 - 🌱 I’m currently learning Spring Boot, MySQL, RabbitMQ, Docker, Maven, ReactJS and Kubernetes
 - 💞️ I’m looking to collaborate on some full stack project ideas
